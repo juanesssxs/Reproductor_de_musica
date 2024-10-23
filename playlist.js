@@ -1,5 +1,5 @@
 
-export const playList = [ddddddddddddd
+export const playList = [
     {
       title: 'Song 1',
       artist: 'Artist 1',
