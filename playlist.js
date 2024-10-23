@@ -1,14 +1,14 @@
 
 export const playList = [
     {
-      title: 'Song 1',
-      artist: 'Artist 1',
-      img: 'ruta de la imagen de la canción',
-      song: 'ruta de la cancion'
+      title: 'Poca Ropa',
+      artist: 'Cheka',
+      img: 'Assets/images/pocaropa.jpg.jpeg',
+      song: 'Assets/sound/Cheka - Poca Ropa.mp3'
     },
     {
-      title: 'Song 2',
-      artist: 'Artist 2',
+      title: 'LATTE',
+      artist: 'The Academy',
       img: 'ruta de la imagen de la canción',
       song: 'ruta de la cancion'
     },
